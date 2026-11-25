@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="Stack of disposable cups illustration">
+  <defs>
+    <linearGradient id="cup-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e8f1ff"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="152" r="108" fill="#ffffff" opacity=".72"/>
+  <circle cx="98" cy="82" r="14" fill="#ffd9ad" opacity=".85"/>
+  <circle cx="306" cy="218" r="17" fill="#bfe9e2" opacity=".9"/>
+  <g transform="rotate(-12 150 170)">
+    <path d="M120 102h64l-8 120a14 14 0 0 1-14 12h-20a14 14 0 0 1-14-12Z" fill="url(#cup-g)" stroke="#0b5fff" stroke-width="5"/>
+    <rect x="116" y="94" width="72" height="16" rx="8" fill="#ff8a1f"/>
+    <path d="M131 136h44M128 166h50" stroke="#cfe0fa" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g>
+    <path d="M170 84h92l-10 146a16 16 0 0 1-16 15h-40a16 16 0 0 1-16-15Z" fill="url(#cup-g)" stroke="#0b5fff" stroke-width="5"/>
+    <rect x="164" y="74" width="104" height="20" rx="10" fill="#0b5fff"/>
+    <path d="M186 124h60M182 158h68" stroke="#cfe0fa" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="216" cy="206" r="13" fill="#0f9e8c" opacity=".18"/>
+    <path d="M208 206h16M216 198v16" stroke="#0f9e8c" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+  </g>
+</svg>

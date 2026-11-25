@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="Bathroom tumbler and mug set illustration">
+  <defs>
+    <linearGradient id="tumbler-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22b8d6"/>
+      <stop offset="1" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="set-mug-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffa24a"/>
+      <stop offset="1" stop-color="#ee7808"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="152" r="108" fill="#ffffff" opacity=".72"/>
+  <circle cx="94" cy="86" r="13" fill="#ffd9ad" opacity=".9"/>
+  <circle cx="310" cy="212" r="16" fill="#bfe9e2" opacity=".85"/>
+  <rect x="124" y="106" width="80" height="124" rx="20" fill="url(#tumbler-g)"/>
+  <ellipse cx="164" cy="106" rx="40" ry="11" fill="#076f88"/>
+  <path d="M144 132v78" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".25"/>
+  <path d="M132 92c14-22 38-22 52-8" fill="none" stroke="#123b6b" stroke-width="6" stroke-linecap="round" opacity=".65"/>
+  <path d="M214 152h8a26 26 0 0 1 0 52h-8" fill="none" stroke="url(#set-mug-g)" stroke-width="13" stroke-linecap="round"/>
+  <path d="M212 140h64v58a22 22 0 0 1-22 22h-20a22 22 0 0 1-22-22Z" fill="url(#set-mug-g)"/>
+  <ellipse cx="244" cy="140" rx="32" ry="9" fill="#c65f00"/>
+  <rect x="228" y="172" width="32" height="14" rx="7" fill="#ffffff" opacity=".85"/>
+  <g fill="#0f9e8c" opacity=".45">
+    <circle cx="270" cy="104" r="8"/>
+    <circle cx="288" cy="88" r="5"/>
+    <circle cx="260" cy="82" r="4"/>
+  </g>
+</svg>

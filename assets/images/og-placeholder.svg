@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="TCT Traders — quality plastic products for every home and business">
+  <defs>
+    <linearGradient id="og-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08192e"/>
+      <stop offset=".6" stop-color="#0d3a78"/>
+      <stop offset="1" stop-color="#0b5b83"/>
+    </linearGradient>
+    <linearGradient id="og-mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b5fff"/>
+      <stop offset="1" stop-color="#0f9e8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#og-bg)"/>
+  <circle cx="1060" cy="90" r="210" fill="#ff8a1f" opacity=".18"/>
+  <circle cx="120" cy="590" r="220" fill="#0f9e8c" opacity=".16"/>
+  <g transform="translate(90 82)">
+    <rect width="76" height="76" rx="20" fill="url(#og-mark)"/>
+    <path d="M21 25h34M38 25v31" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="58" cy="58" r="6" fill="#ff8a1f"/>
+  </g>
+  <text x="190" y="135" fill="#ffffff" font-family="Poppins, Segoe UI, Arial, sans-serif" font-size="40" font-weight="600" letter-spacing="-.5">TCT Traders</text>
+  <text x="90" y="290" fill="#ffffff" font-family="Poppins, Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.5">Quality plastic products</text>
+  <text x="90" y="368" fill="#ffffff" font-family="Poppins, Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.5">for every home &amp; business.</text>
+  <text x="90" y="440" fill="#bfd4e8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27">Kitchenware · Storage · Buckets · Household · Disposables · Bathroom</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="90" y="500" width="256" height="62" rx="31" fill="#ff8a1f"/>
+    <text x="218" y="540" fill="#0c1b33" font-size="25" font-weight="700" text-anchor="middle">Ganapathy, Coimbatore</text>
+    <rect x="362" y="500" width="310" height="62" rx="31" fill="none" stroke="#ffffff" stroke-opacity=".4"/>
+    <text x="517" y="540" fill="#ffffff" font-size="25" font-weight="600" text-anchor="middle">+91 93848 46922</text>
+  </g>
+  <g transform="translate(850 270) rotate(-8)">
+    <rect x="0" y="0" width="220" height="220" rx="48" fill="#ffffff" opacity=".1"/>
+    <rect x="45" y="40" width="130" height="140" rx="30" fill="#0f9e8c"/>
+    <rect x="75" y="18" width="70" height="35" rx="12" fill="#0b5fff"/>
+    <rect x="72" y="100" width="76" height="28" rx="14" fill="#ffffff" opacity=".85"/>
+  </g>
+</svg>

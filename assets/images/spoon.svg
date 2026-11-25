@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="Serving spoon illustration">
+  <defs>
+    <linearGradient id="spoon-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b86ff"/>
+      <stop offset="1" stop-color="#0b5fff"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="152" r="108" fill="#ffffff" opacity=".7"/>
+  <circle cx="312" cy="68" r="22" fill="#ffd9ad" opacity=".8"/>
+  <circle cx="92" cy="222" r="14" fill="#bfe9e2" opacity=".9"/>
+  <g transform="rotate(-22 200 150)">
+    <rect x="188" y="55" width="24" height="134" rx="12" fill="url(#spoon-g)"/>
+    <ellipse cx="200" cy="211" rx="47" ry="58" fill="url(#spoon-g)"/>
+    <ellipse cx="185" cy="196" rx="14" ry="25" fill="#ffffff" opacity=".24"/>
+  </g>
+  <g fill="#0f9e8c" opacity=".55">
+    <circle cx="292" cy="218" r="6"/>
+    <circle cx="310" cy="200" r="4"/>
+  </g>
+</svg>

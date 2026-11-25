@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="TCT Traders Favicon">
+  <defs>
+    <linearGradient id="fav-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2874F0"/>
+      <stop offset="100%" stop-color="#0746C4"/>
+    </linearGradient>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FF9F00"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#fav-grad)"/>
+  <!-- Isometric cube top/shading -->
+  <path d="M32 10 L52 21 L32 32 L12 21 Z" fill="#ffffff" fill-opacity="0.22"/>
+  <path d="M12 21 L32 32 L32 52 L12 41 Z" fill="#000000" fill-opacity="0.18"/>
+  <path d="M52 21 L52 41 L32 52 L32 32 Z" fill="#ffffff" fill-opacity="0.08"/>
+  <!-- Monogram T -->
+  <path d="M19 19 H45 V25 H35 V46 H29 V25 H19 Z" fill="#ffffff"/>
+  <!-- Star accent -->
+  <circle cx="48" cy="14" r="5" fill="url(#gold-grad)"/>
+</svg>

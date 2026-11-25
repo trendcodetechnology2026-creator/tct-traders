@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="Plastic water bottle illustration">
+  <defs>
+    <linearGradient id="bottle-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#35a99f"/>
+      <stop offset="1" stop-color="#0f8f80"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="152" r="108" fill="#ffffff" opacity=".72"/>
+  <circle cx="300" cy="216" r="18" fill="#ffd9ad" opacity=".8"/>
+  <circle cx="102" cy="80" r="12" fill="#cfe0ff" opacity=".9"/>
+  <rect x="174" y="46" width="52" height="30" rx="9" fill="#123b6b"/>
+  <rect x="184" y="76" width="32" height="18" fill="#0b5fff"/>
+  <rect x="156" y="88" width="88" height="164" rx="28" fill="url(#bottle-g)"/>
+  <rect x="166" y="146" width="68" height="62" rx="12" fill="#ffffff" opacity=".92"/>
+  <path d="M178 168h44M178 184h30" stroke="#0f9e8c" stroke-width="5" stroke-linecap="round" opacity=".55"/>
+  <path d="M170 108v118" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity=".2"/>
+  <g fill="#ffffff" opacity=".5">
+    <circle cx="206" cy="224" r="4"/>
+    <circle cx="221" cy="236" r="3"/>
+  </g>
+</svg>

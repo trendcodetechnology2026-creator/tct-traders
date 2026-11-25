@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="Plastic mug illustration">
+  <defs>
+    <linearGradient id="mug-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#19b9a6"/>
+      <stop offset="1" stop-color="#0f8f80"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="152" r="108" fill="#ffffff" opacity=".72"/>
+  <circle cx="94" cy="82" r="18" fill="#cfe0ff" opacity=".9"/>
+  <circle cx="306" cy="224" r="12" fill="#ffd9ad" opacity=".85"/>
+  <path d="M255 121h11a37 37 0 0 1 0 74h-11" fill="none" stroke="url(#mug-g)" stroke-width="20" stroke-linecap="round"/>
+  <path d="M139 100h120v109a31 31 0 0 1-31 31h-58a31 31 0 0 1-31-31Z" fill="url(#mug-g)"/>
+  <ellipse cx="199" cy="100" rx="60" ry="15" fill="#0b7c6f"/>
+  <ellipse cx="199" cy="101" rx="47" ry="9" fill="#d9f5ef"/>
+  <rect x="160" y="152" width="80" height="28" rx="14" fill="#ffffff" opacity=".9"/>
+  <path d="M174 166h52" stroke="#0f8f80" stroke-width="5" stroke-linecap="round" opacity=".6"/>
+  <path d="M153 116v110" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity=".18"/>
+  <g fill="none" stroke="#0f9e8c" stroke-width="4" stroke-linecap="round" opacity=".55">
+    <path d="M176 75c0-9 10-9 10-18"/>
+    <path d="M204 75c0-9 10-9 10-18"/>
+  </g>
+</svg>

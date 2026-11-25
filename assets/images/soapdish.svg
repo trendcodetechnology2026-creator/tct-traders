@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="Soap dish with draining tray illustration">
+  <defs>
+    <linearGradient id="dish-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b86ff"/>
+      <stop offset="1" stop-color="#0b5fff"/>
+    </linearGradient>
+    <linearGradient id="soap-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb066"/>
+      <stop offset="1" stop-color="#f58612"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="152" r="108" fill="#ffffff" opacity=".72"/>
+  <circle cx="302" cy="86" r="16" fill="#bfe9e2" opacity=".9"/>
+  <circle cx="100" cy="212" r="12" fill="#cfe0ff" opacity=".9"/>
+  <path d="M92 186c0 29 48 52 108 52s108-23 108-52" fill="#0a4ed0"/>
+  <rect x="88" y="172" width="224" height="42" rx="21" fill="url(#dish-g)"/>
+  <path d="M122 193h156" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".28"/>
+  <rect x="122" y="124" width="156" height="54" rx="20" fill="url(#soap-g)"/>
+  <path d="M148 142h104" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity=".35"/>
+  <g fill="#0f9e8c" opacity=".55">
+    <circle cx="300" cy="128" r="8"/>
+    <circle cx="316" cy="108" r="5"/>
+    <circle cx="290" cy="106" r="4"/>
+  </g>
+  <g fill="#0b5fff" opacity=".25">
+    <circle cx="110" cy="112" r="5"/>
+    <circle cx="126" cy="128" r="3"/>
+  </g>
+</svg>

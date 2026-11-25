@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="Stackable storage containers illustration">
+  <defs>
+    <linearGradient id="box-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b86ff"/>
+      <stop offset="1" stop-color="#0b5fff"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="152" r="110" fill="#ffffff" opacity=".72"/>
+  <circle cx="92" cy="78" r="16" fill="#bfe9e2" opacity=".9"/>
+  <circle cx="312" cy="220" r="20" fill="#ffd9ad" opacity=".8"/>
+  <rect x="116" y="146" width="168" height="98" rx="16" fill="#dfeaff"/>
+  <path d="M136 176h128" stroke="#ffffff" stroke-width="7" stroke-linecap="round" opacity=".9"/>
+  <rect x="106" y="128" width="188" height="30" rx="12" fill="url(#box-g)"/>
+  <rect x="140" y="88" width="120" height="62" rx="12" fill="#fff4e4"/>
+  <path d="M160 112h80" stroke="#ffc583" stroke-width="7" stroke-linecap="round"/>
+  <rect x="132" y="74" width="136" height="24" rx="10" fill="#ff8a1f"/>
+  <rect x="158" y="188" width="84" height="34" rx="11" fill="#ffffff" opacity=".78"/>
+  <path d="M174 205h52" stroke="#0b5fff" stroke-width="5" stroke-linecap="round" opacity=".35"/>
+  <g fill="#ffffff" opacity=".8">
+    <circle cx="200" cy="162" r="4"/>
+    <circle cx="200" cy="176" r="4"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="Pedal dustbin illustration">
+  <defs>
+    <linearGradient id="bin-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2fb9a8"/>
+      <stop offset="1" stop-color="#0d897b"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="152" r="108" fill="#ffffff" opacity=".72"/>
+  <circle cx="96" cy="88" r="15" fill="#cfe0ff" opacity=".9"/>
+  <circle cx="308" cy="222" r="12" fill="#ffd9ad" opacity=".85"/>
+  <path d="M132 104h136l-15 142a16 16 0 0 1-16 15h-74a16 16 0 0 1-16-15Z" fill="url(#bin-g)"/>
+  <rect x="112" y="80" width="176" height="30" rx="14" fill="#0b6b60"/>
+  <rect x="178" y="62" width="44" height="14" rx="7" fill="#123b6b"/>
+  <path d="M152 126v112M248 126v112" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity=".18"/>
+  <rect x="164" y="196" width="72" height="34" rx="10" fill="#ffffff" opacity=".2"/>
+  <path d="M256 246h30" stroke="#123b6b" stroke-width="7" stroke-linecap="round" opacity=".5"/>
+  <path d="M252 236l20 10" stroke="#123b6b" stroke-width="6" stroke-linecap="round" opacity=".35"/>
+  <g fill="none" stroke="#0f9e8c" stroke-width="4" stroke-linecap="round" opacity=".5">
+    <path d="M206 42c0-8 8-8 8-16"/>
+  </g>
+</svg>
